@@ -1,4 +1,4 @@
-# Employee_Attrition
+# Employee Attrition & Performance
 ![1672206449992-Employee Attrition](https://github.com/JAISON14/Employee_Attrition/assets/24632348/3b8f2b3f-ec77-4578-9a51-a1782981487b)
 
 Dataset: https://www.kaggle.com/datasets/patelprashant/employee-attrition 
